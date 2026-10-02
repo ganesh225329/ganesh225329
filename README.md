@@ -37,7 +37,33 @@ I like turning ideas into working applications, exploring AI technologies, findi
 
 ---
 
-## 🧭 My Journey
+## 🎓 My College Journey
+
+I started my B.Tech journey in **Computer Science and Engineering with a specialization in Artificial Intelligence & Machine Learning** at **Garden City University, Bangalore**.
+
+Over the course of my degree, my interests have grown from programming fundamentals and software development into a broader journey across **AI, data analytics, and software testing**.
+
+- 🏛️ **2023 — Foundations**  
+  Started my B.Tech journey and built a strong foundation in programming, data structures, object-oriented programming, and core computer science fundamentals.
+
+- 💻 **2024 — Building Software**  
+  Started developing practical applications using Python, Java, C++, JavaScript, HTML, CSS, SQL, and MySQL.
+
+- 📊 **2025 — Development & Data**  
+  Expanded into web development, application development, data analysis, and visualization with Power BI, Tableau, Excel, Pandas, and NumPy.
+
+- 🤖 **2026 — AI & Intelligent Systems**  
+  Explored AI/ML, computer vision, TensorFlow, agentic AI, RAG, and modern AI development concepts through hands-on projects and experimentation.
+
+- 🧪 **2026 — Software Quality**  
+  Developed an interest in software testing and automation using JUnit, Selenium, Gradle, and GitHub-based development workflows.
+
+- 🚀 **2026–2027 — Building & Learning**  
+  Currently bringing these areas together to build practical software, autonomous AI solutions, data-driven applications, and reliable systems.
+
+---
+
+## 🧭 My Development Flow
 
 ```text
                  MY DEVELOPMENT JOURNEY
@@ -60,11 +86,11 @@ I like turning ideas into working applications, exploring AI technologies, findi
            RELIABLE SOFTWARE
 ```
 
-### Current Direction
+### 🚀 My Direction
 
-**Software → AI → Data → Testing → Better Solutions**
+**Software Development → AI → Data Analytics → Software Testing**
 
-I'm continuously learning and building projects that combine these areas.
+I'm continuing to learn, build, test, and improve as I work toward becoming a versatile software engineer with an AI & ML focus.
 
 ---
 
